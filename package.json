@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/test-post-000003",
+  "repository": "https://github.com/anuchit33/test-post-000003",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
